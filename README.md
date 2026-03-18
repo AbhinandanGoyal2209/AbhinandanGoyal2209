@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Goyal</h1>
-<h3 align="center">🚀 Software Developer | Full Stack | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhinandanGoyal2209&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Problem+Solver" />
+</h3>
 
 ---
 
 ## 🌟 About Me
 - 🎓 CSE Student @ Chitkara University (CGPA: 9.12)
-- 💻 Passionate about Full Stack Development
-- 🚀 Built scalable apps using React, Spring Boot
-- 🌱 Currently learning Advanced DSA & System Design
-- 📫 Reach me: **abhinandangoyal1223@gmail.com**
+- 💻 Software Engineer & AI Enthusiast
+- 🚀 Full Stack Developer (React + Spring Boot)
+- 🤖 Exploring AI, ML & Automation
+- 📫 Email: **abhinandangoyal1223@gmail.com**
 
 ---
 
@@ -40,9 +39,9 @@
 ---
 
 ## 🚀 Projects
-- 🔹 **Room Sync** – Roommate Finder Platform
-- 🔹 **Job Hunt** – Job Portal using React & Spring Boot
-- 🔹 **AI Calling Agent** – AI Voice Automation
+- 🔹 Room Sync – Roommate Finder Platform
+- 🔹 Job Hunt – Job Portal
+- 🔹 AI Calling Agent – AI Automation
 
 ---
 
@@ -56,10 +55,10 @@
 
 ## 🔗 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/abhinandan-goyal22/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:abhinandangoyal1223@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
 
-⭐ From [AbhinandanGoyal2209](https://github.com/AbhinandanGoyal2209)
+⭐ From Abhinandan Goyal
