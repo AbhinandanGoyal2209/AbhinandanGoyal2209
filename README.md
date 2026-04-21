@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhinandan Goyal</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;Software+Engineer;AI+Agents+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;Software+Engineer;AI+Agents+Builder;Cloud+Engineer" />
 </h3>
 
 ---
 
 ## 🌟 About Me
 - 🎓 CSE Student @ Chitkara University (CGPA: 9.12)
-- 💻 Software Engineer | Web Developer | AI Engineer
+- 💻 Software Engineer | Web Developer | AI Engineer | Cloud Engineer
 - 🤖 Passionate about AI, ML & Intelligent Systems
 - 🚀 Building Full Stack + AI-powered applications
 - 📫 Email: **abhinandangoyal1223@gmail.com**
