@@ -1,3 +1,6 @@
+<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/23fb8b0c-5eed-4c23-bafc-1860a7c42593" />
+
+
 <h1 align="center">Hi 👋, I'm Abhinandan Goyal</h1>
 
 <h3 align="center">
