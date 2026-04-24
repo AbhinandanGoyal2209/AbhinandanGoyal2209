@@ -1,4 +1,3 @@
-<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/23fb8b0c-5eed-4c23-bafc-1860a7c42593" />
 
 
 <h1 align="center">Hi 👋, I'm Abhinandan Goyal</h1>
@@ -6,6 +5,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;Software+Engineer;AI+Agents+Builder;Cloud+Engineer" />
 </h3>
+<img width="1990" height="702" alt="image" src="https://github.com/user-attachments/assets/23fb8b0c-5eed-4c23-bafc-1860a7c42593" />
 
 ---
 
